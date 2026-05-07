@@ -1,5 +1,7 @@
 # AI Fruit Type + Ripeness Monitoring System (CNN)
 
+An end-to-end deep learning system that automatically identifies fruit types and classifies ripeness stages using Convolutional Neural Networks (CNNs). It is designed for smart agriculture, quality control, and supply chain optimization.
+
 This project uses two CNN models:
 - **Type model** (apple, banana, mango, etc.)
 - **Ripeness stage model** (unripe, ripe, overripe)
